@@ -1133,6 +1133,7 @@ PRODUCT_PACKAGES += \
     slim_daemon \
     sscrpcd \
     ssgtzd \
+    ssr_setup \
     tftp_server \
     thermal-engine \
     time_daemon \
