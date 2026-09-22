@@ -375,11 +375,11 @@ PRODUCT_PACKAGES += \
     vendor.qti.hardware.vpp@1.2 \
     vendor.qti.hardware.vpp@1.3 \
     btaudio_offload_if \
-    audio.primary.munch \
+    audio.primary.kona \
     sound_trigger.primary.kona \
     vendor.qti.hardware.bluetooth_audio@2.0-impl \
     libFileMux_proprietary \
-    liba2dpoffload_munch \
+    liba2dpoffload \
     libacdb-fts \
     libacdbloader \
     libacdbrtac \
